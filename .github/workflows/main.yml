@@ -10,4 +10,4 @@ jobs:
         uses: gatling/enterprise-action@v1
         with:
           api_token: ${{ secrets.GATLING_ENTERPRISE_API_TOKEN }}
-          simulation_id: "257feff8-d6b6-42cc-8d3e-bec88dfb4df4"
+          simulation_id: "FneU_Y6OMF6XoU.u-3ZWOIW75QxeG6tbhtAnd_gBBsn6djHYqJ9CKLX.YRNh_Dvk5"
